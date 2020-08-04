@@ -1,0 +1,25 @@
+const config = {
+
+    // Bot Tokens & Toggles
+    "production": false,
+    "debug": false,
+    "devtoken": "",
+    "prodtoken": "",
+
+    // Sentry links
+    "setry_prod": "",
+    "setry_dev": "",
+
+    // API Tokens
+
+
+    // Bot Administrator/Owner
+    "botOwner": "",
+    
+    // Footer
+    "footer": "",
+
+    // Bot configuration
+
+}
+module.exports = config;
